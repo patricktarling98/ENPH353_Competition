@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Python environments
+.venv/
+venv/
+
+# ROS build artifacts
+build/
+install/
+log/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
